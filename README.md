@@ -1,84 +1,103 @@
+👥 HR Analytics Dashboard – Data Analytics Project
+📌 Project Overview
 
-# 🏨 Hospitality Analysis – Data Analytics Project
+This project focuses on analyzing HR and employee data to extract meaningful insights related to employee performance, attrition, recruitment trends, salary distribution, and workforce demographics.
+The goal is to support data-driven HR decision making using analytical techniques and interactive dashboards.
 
-## 📌 Project Overview
-This project focuses on analyzing hospitality industry data to extract meaningful insights related to hotel performance, revenue trends, occupancy rates, and customer behavior.  
-The goal is to support **data-driven decision making** for hotel management using analytical techniques and visual dashboards.
+🎯 Objectives
 
----
+Analyze employee attrition trends
 
-## 🎯 Objectives
-- Analyze hotel revenue and occupancy trends
-- Identify high-performing hotels and room categories
-- Understand booking patterns and customer behavior
-- Provide actionable insights for business growth
-- Build interactive dashboards for stakeholders
+Identify key factors affecting employee turnover
 
----
+Study department-wise and gender-wise workforce distribution
 
-## 📊 Key Insights Generated
-- Revenue contribution by hotel type and city
-- Occupancy rate trends over time
-- Average Daily Rate (ADR) and RevPAR analysis
-- Booking platform performance comparison
-- Seasonal demand patterns
+Evaluate salary structure and job roles
 
----
+Build interactive dashboards for HR managers
 
-## 🛠 Tools & Technologies Used
-- **Excel** – Data cleaning and preprocessing  
-- **SQL** – Data querying and analysis  
-- **Power BI** – Interactive dashboards & visualizations  
-- **Python (optional)** – Data exploration and analysis  
+📊 Key Insights Generated
 
----
+Attrition rate by department and job role
 
-## 📁 Dataset Information
-The dataset contains structured hotel booking and performance data, including:
-- Booking dates
-- Room categories
-- Revenue metrics
-- Occupancy details
-- City and hotel type information  
+Employee distribution by age, gender, and education
 
-*(Dataset used only for educational and analytical purposes.)*
+Salary analysis by job level and department
 
----
+Job satisfaction & performance trends
 
-## 📈 Dashboard & Visualizations
+Hiring trends over time
+
+🛠 Tools & Technologies Used
+4
+
+Excel – Data cleaning and preprocessing
+
+SQL – Data querying and analysis
+
+Power BI – Interactive dashboards & visualizations
+
+Python (optional) – Exploratory Data Analysis
+
+📁 Dataset Information
+
+The dataset contains structured HR data, including:
+
+Employee ID
+
+Age & Gender
+
+Department & Job Role
+
+Salary & Job Level
+
+Attrition Status
+
+Years at Company
+
+Performance Rating
+
+(Dataset used only for educational and analytical purposes.)
+
+📈 Dashboard & Visualizations
+
 The Power BI dashboard includes:
-- KPI cards (Revenue, Occupancy %, ADR, RevPAR)
-- Time-series trend analysis
-- City-wise and hotel-wise performance
-- Booking source analysis
 
----
+KPI Cards (Total Employees, Attrition Rate %, Avg Salary, Avg Tenure)
 
-## 🚀 Project Outcomes
-- Improved understanding of hospitality KPIs
-- Business-ready insights through dashboards
-- Strong demonstration of real-world data analytics skills
-- Suitable for **Data Analyst fresher-level roles**
+Department-wise Attrition Analysis
 
----
+Gender & Age Distribution Charts
 
-## 📌 Future Improvements
-- Predictive analysis for occupancy forecasting
-- Customer segmentation using machine learning
-- Automation of data refresh
-- Integration with real-time hotel data sources
+Salary & Job Level Breakdown
 
----
+Trend Analysis of Hiring & Attrition
 
-## 👤 About Me
-**Harshit Shukla**  
-Data Analyst with a strong foundation in SQL and data visualization, delivering actionable business insights.
-Passionate about transforming raw data into actionable insights.
+🚀 Project Outcomes
 
-📫 **Connect with me:**  
-- Email : harshitshukla4513@gmail.com
+Clear understanding of HR KPIs
 
----
+Actionable insights for reducing attrition
 
-## ⭐ If you find this project helpful
-Give it a ⭐ and feel free to fork or contribute!
+Data-driven workforce planning support
+
+Strong portfolio project for Data Analyst / HR Analyst roles
+
+📌 Future Improvements
+
+Predictive Attrition Model using Machine Learning
+
+Employee Performance Forecasting
+
+Real-time HR dashboard integration
+
+Automated monthly HR reporting system
+
+👤 About Me
+
+Harshit Shukla
+Data Analyst with strong expertise in SQL and Data Visualization.
+Passionate about transforming HR data into actionable business insights.
+
+📫 Connect with me:
+Email: harshitshukla4513@gmail.com
